@@ -284,7 +284,7 @@ On Tuesday 10th of July the Tezos folder had a size of 1.1GB.
 
 
 
-##### I want to thank the Riot-Tech channel for all of this information.
+## I want to thank the Riot-Tech channel for all of this information.
 All the information is theirs! Especially I want to thank:
 (not ordered, unfortunately there are many many more and a lot of links and references missing)
 
