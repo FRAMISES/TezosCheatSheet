@@ -271,6 +271,7 @@ p256 is still not available on ledger, but it will be available.
 
 ## OVER-DELEGATION
 The maximum amount a baker can bake per roll is 10000/0.0825*percentage of XTZ baked
+
 The baker needs a minimum of 8.25 percent as security deposit in order to bake in case 100% of all XTZ are taking part in the baking process.
 If more Tezos gets baked more security deposits are needed as the single baker can bake and endorse more blocks.
 In case 30% of all Tezos is taking part in the baking process 36363 XTZ is the maximum bakeable amount per roll.
