@@ -50,6 +50,12 @@ Tezos Cycle Baking Stats (credits to sirneb for keeping this up to date!)
 https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312
 
 
+View detailed baking rights:
+
+https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7 (Change the cycle number!)
+
+https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7 (Change the cycle number!)
+
 
 List of further resources:
 
@@ -113,6 +119,8 @@ Get snapshot number 9 for cycle 7:
 ```
 
 ## BAKING RIGHTS
+https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7 (Change the cycle number!)
+
 The baker with priority 0 has the first rights to bake a block.
 The number of "preserved cycles" is 5. If a block gets baked in cycle 8 the reward will be spendable in cycle 14.
 
@@ -130,6 +138,9 @@ Get baking rights for cycle 7 for specific address:
 ```
 
 ## ENDORSING RIGHTS
+
+https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7 (Change the cycle number!)
+
 Get endorsing rights for cycle 7:
 ```
 ./tezos-client rpc get '/chains/main/blocks/head/helpers/endorsing_rights?cycle=7' | jq '.[] | . as $right | path(.|.slots[]) | $right | .delegate' | sort | uniq -c
