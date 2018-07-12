@@ -45,6 +45,9 @@ Simple instructions to bake and keep (most of) your tezzies offline:
 https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline
 
 
+Tezos Cycle Baking Stats (credits to sirneb for keeping this up to date!)
+https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312
+
 
 
 List of further resources:
