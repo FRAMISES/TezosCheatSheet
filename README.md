@@ -273,8 +273,11 @@ The endorser-process doesn't display any output.
 Implicit addresses:
 
 tz1: ed25519
+
 tz2: secp256k1
+
 tz3: p256 (not as secure as ed25519, mainly for mobile devices, they don't need much computing power)
+
 
 kt1: originated accounts (these are smart contracts) (Belong to a implicit address, you need them for staking your coins or smart contracts. An implicit address is the manager of a kt1 address.)
 
