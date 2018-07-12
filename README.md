@@ -286,18 +286,33 @@ All the information is theirs! Especially I want to thank:
 (not ordered, unfortunately there are many many more and a lot of links and references missing)
 
 sirneb (Baking and Endorsing statistics: https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312)
+
 Braveheart
+
 fredcy (Start baking guide: https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9)
+
 stephenandrews (Bakechain (Baking application and marketplace for the average user on windows), TezBox (Wallet) (https://tezbox.com/), rpc.tezrpc.me (public node) and so much more!)
+
 Tezzigator (So much information and more!)
+
 cago (tzscan.io)
+
 maxtez-raspbaker
+
 Martin Eian
+
 Blindripper
+
 wholesum
+
 DefinitelyNotAGoat
+
 bitcom
+
 a_a_a
+
 ricopvt
+
 tomjack
+
 bobbyLiberty
