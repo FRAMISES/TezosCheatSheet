@@ -59,7 +59,7 @@ The first cycle is defined as cycle 0.
 A cycle has 4096 blocks. (0 to 4095)
 
 ## SNAPSHOTS
-Every cycle 16 snapshots are taken. They occurr every 256 blocks. Therefore the first will be at block 255 of the current cycle (The first block is block 0.).
+Every cycle 16 snapshots are taken. They occur every 256 blocks. Therefore the first will be at block 255 of the current cycle (The first block is block 0.).
 Snapshot 0 (block 255), Snapshot 15 (block 4095).
 To calculate the block in the cycle where the snapshot was taken use this formula:
 
