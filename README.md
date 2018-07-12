@@ -285,6 +285,12 @@ I want to thank the Riot-Tech channel for all of this information.
 All the information is theirs! Especially I want to thank:
 (not ordered, unfortunately there are many many more and a lot of links and references missing)
 
+
+
+
+
+
+
 sirneb (Baking and Endorsing statistics: https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312)
 
 Braveheart
