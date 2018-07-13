@@ -280,7 +280,7 @@ tz3: p256 (not as secure as ed25519, mainly for mobile devices, they don't need 
 
 Originated addresses:
 
-kt1: originated accounts (these are smart contracts) (Belong to a implicit address, you need them for staking your coins or smart contracts. An implicit address is the manager of a kt1 address.)
+kt1: originated accounts (these are smart contracts) (Belong to a implicit address, you need them for staking your coins or smart contracts. An implicit address is the manager of a kt1 address. Every origination burns 0.257 XTZ.)
 
 Implicit accounts can bake their own balance + the balance staked by kt1 addresses and contracts.
 Even if a part of the balance is currently bonds tese bonds count to the rolls.
