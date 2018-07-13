@@ -7,6 +7,7 @@
 
 ### Wallets
 
+[TezBox](https://tezbox.com/) [Public Node](https://rpc.tezrpc.me)
 
 
 ### Knowledge Base
@@ -31,12 +32,13 @@
 
 ### Information for Bakers
 
-
 [Guide to set up a Tezos Client and start baking](https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9/)
 
 [Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application: Great guide how to start baking - by ObsidianSys.)
 
 [Simple instructions to bake and keep (most of) your tezzies offline](https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline)
+
+[Bakechain: Simple baking software for Windows + Marketplace for Bakers](https://bakechain.github.io/)
 
 #### Statistics
 
