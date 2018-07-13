@@ -4,17 +4,17 @@
 
 
 
-The perfect Block explorer:
 
-https://tzscan.io/
-
+[Tzscan.io Block explorer] (https://tzscan.io/)
 
 
 
-Tezos Documentation
 
-http://tezos.gitlab.io/betanet/
-http://doc.tzalpha.net/api/rpc.html
+
+
+
+[Tezos Betanet Documentation](http://tezos.gitlab.io/betanet/)
+[Tezos Alphanet Documentation](http://doc.tzalpha.net/api/rpc.html)
 
 
 
@@ -27,46 +27,34 @@ http://doc.tzalpha.net/api/rpc.html
 
 
 
-Guide to set up a Tezos Client and start baking - this guide started the Tezos network!
-
-https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9 (by fredcy)
+[Guide to set up a Tezos Client and start baking] (https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9)
 
 
 
 
-Tezos Ledger Nano S applications (Wallet and Baking application and a great guide how to start baking) (by ObsidianSys)
-
-https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md
+[Tezos Ledger Nano S applications] (https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application and a great guide how to start baking) (by ObsidianSys)
 
 
 
 
-Simple instructions to bake and keep (most of) your tezzies offline:
-
-https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline
 
 
-Tezos Cycle Baking Stats (credits to sirneb for keeping this up to date!)
-
-https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312
+[Simple instructions to bake and keep (most of) your tezzies offline] (https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline)
 
 
-https://docs.google.com/spreadsheets/d/1Frn5NTHkHIXk0hWXDqqwPTJfxznR3PSQWdJUgA1aqO0/edit#gid=0
+[Tezos Cycle Baking Stats] (https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312) (credits to sirneb for keeping this up to date!)
+
+[Further Delegation and Baking Statistics](https://docs.google.com/spreadsheets/d/1Frn5NTHkHIXk0hWXDqqwPTJfxznR3PSQWdJUgA1aqO0/edit#gid=0)
 
 
-View detailed baking rights:
+[View detailed baking rights] (https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7) (Change the cycle number!)
 
-https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7 (Change the cycle number!)
-
-https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7 (Change the cycle number!)
+[View detailed baking rights] (https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7) (Change the cycle number!)
 
 
-List of further resources:
-
-https://www.tezos.help/
+[List of further resources](https://www.tezos.help/)
 
 
-There will either be listed tezos-client commands or rpc.tezrpc.me links (which equals calling the info on your local node, credits to stephenandrews, who runs the public node)
 
 ## CYCLES
 The first cycle is defined as cycle 0.
