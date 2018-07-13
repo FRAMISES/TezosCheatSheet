@@ -3,44 +3,24 @@
 ## RESOURCES
 
 
+### Communities
 
-
-[Tzscan.io Block explorer](https://tzscan.io/)
-
-
-
+### Wallets
 
 
 
+### Knowledge Base
 
 [Tezos Betanet Documentation](http://tezos.gitlab.io/betanet/)
+
 [Tezos Alphanet Documentation](http://doc.tzalpha.net/api/rpc.html)
 
 
+### Blockchain Live Information
 
+[Tzscan.io Block explorer](https://tzscan.io/)
 
-
-
-[List of delegation services and their fees](http://www.mytezosbaker.com/bakers-list/)
-
-
-
-
-
-[Guide to set up a Tezos Client and start baking](https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9/)
-
-
-
-
-[Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application: Great guide how to start baking - by ObsidianSys.)
-
-
-
-
-
-
-[Simple instructions to bake and keep (most of) your tezzies offline](https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline)
-
+#### Statistics
 
 [Tezos Cycle Baking Stats](https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312) (credits to sirneb for keeping this up to date!)
 
@@ -51,8 +31,25 @@
 
 [View detailed endorsing rights](https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7) (Change the cycle number!)
 
+### Information for Stakers
 
+[List of delegation services and their fees](http://www.mytezosbaker.com/bakers-list/)
+
+### Information for Bakers
+
+
+[Guide to set up a Tezos Client and start baking](https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9/)
+
+[Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application: Great guide how to start baking - by ObsidianSys.)
+
+[Simple instructions to bake and keep (most of) your tezzies offline](https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline)
+
+
+
+
+### Further Resources
 [List of further resources](https://www.tezos.help/)
+
 
 
 
