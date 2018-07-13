@@ -7,7 +7,11 @@
 
 ### Wallets
 
-[TezBox](https://tezbox.com/) [Public Node](https://rpc.tezrpc.me)
+[List of Tezos Wallets](https://djangobits.github.io/tezoswallets/)
+
+[TezBox](https://tezbox.com/) (Web Wallet)
+
+[Ledger Nano S](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Hardware Wallet)
 
 
 ### Knowledge Base
