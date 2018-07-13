@@ -7,7 +7,7 @@
 
 [Reddit](https://www.reddit.com/r/tezos/)
 
-[Riot.im](Technical Discussions)
+[Riot.im](https://riot.im/app/#/directory) (Technical Discussions)
 
 [Tezos Forum](https://forums.tezos.community/)
 
