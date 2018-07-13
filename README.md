@@ -32,7 +32,7 @@
 
 
 
-[Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application and a great guide how to start baking) (by ObsidianSys)
+[Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application: Great guide how to start baking - by ObsidianSys.)
 
 
 
@@ -49,7 +49,7 @@
 
 [View detailed baking rights](https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7) (Change the cycle number!)
 
-[View detailed baking rights](https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7) (Change the cycle number!)
+[View detailed endorsing rights](https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7) (Change the cycle number!)
 
 
 [List of further resources](https://www.tezos.help/)
@@ -88,8 +88,8 @@ The reward is ENDORSEMENT_REWARD = 2 / BLOCK_PRIORITY where block priority start
 If the baker with baking priority 9 bakes the block every endorser will only get 0.2 XTZ.
 If many blocks are delayed the "health" of the chain gets worse. http://tzscan.io/health
 
-You can see the current baking and endorsing rights in this Excel Sheet. (credits to sirneb!)
-https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312
+You can see the current baking and endorsing rights in this [Excel Sheet](https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312). (credits to sirneb!)
+
 
 The snapshot which determines the baking rights for a cycle is taken 5 cycles before the baking cycle.
 In cycle 3 we know the snapshot chosen for cycle 8.
