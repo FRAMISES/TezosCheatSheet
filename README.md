@@ -5,7 +5,7 @@
 
 
 
-[Tzscan.io Block explorer] (https://tzscan.io/)
+[Tzscan.io Block explorer](https://tzscan.io/)
 
 
 
