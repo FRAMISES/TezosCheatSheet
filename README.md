@@ -5,6 +5,12 @@
 
 ### Communities
 
+[Reddit](https://www.reddit.com/r/tezos/)
+
+[Riot.im](Technical Discussions)
+
+[Tezos Forum](https://forums.tezos.community/)
+
 ### Wallets
 
 [List of Tezos Wallets](https://djangobits.github.io/tezoswallets/)
