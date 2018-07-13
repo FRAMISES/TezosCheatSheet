@@ -154,8 +154,8 @@ So in cycle 7 the endorsement bond is 7 XTZ and the baking bond is 56 XTZ.
 The idea behind the ramp-up is to let delegates build up their bonds.
 
 ## TEZOS NODE
-To set up a node look at this genious guide by fredcy! Thanks!
-https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9
+To set up a node look at this [genius guide](https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9) by fredcy! Thanks!
+
 
 If you have an old opam version try this:
 ```
@@ -305,15 +305,15 @@ All the information is theirs! Especially I want to thank:
 
 
 
-sirneb (Baking and Endorsing statistics: https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312)
+sirneb [Baking Statistics](https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312)
 
 Braveheart
 
-fredcy (Start baking guide: https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9)
+fredcy [Baking guide](https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9/)
 
-stephenandrews (Bakechain (Baking application and marketplace for the average user on windows), TezBox (Wallet) (https://tezbox.com/), rpc.tezrpc.me (public node) and so much more!)
+stephenandrews [TezBox](https://tezbox.com/) [Bakechain](https://bakechain.github.io/) [Public Node](https://rpc.tezrpc.me)
 
-Tezzigator (So much information and more!)
+Tezzigator
 
 cago (tzscan.io)
 
