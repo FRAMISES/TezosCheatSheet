@@ -32,24 +32,24 @@
 
 
 
-[Tezos Ledger Nano S applications] (https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application and a great guide how to start baking) (by ObsidianSys)
+[Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application and a great guide how to start baking) (by ObsidianSys)
 
 
 
 
 
 
-[Simple instructions to bake and keep (most of) your tezzies offline] (https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline)
+[Simple instructions to bake and keep (most of) your tezzies offline](https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5B0%5D-Simple-instructions-to-bake-and-keep-(most-of)-your-tezzies-offline)
 
 
-[Tezos Cycle Baking Stats] (https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312) (credits to sirneb for keeping this up to date!)
+[Tezos Cycle Baking Stats](https://docs.google.com/spreadsheets/d/1TkU71UPfA8g-zgy1y-wKAA3uOJCZr2LeJpjx05KUCXU/edit#gid=1853124312) (credits to sirneb for keeping this up to date!)
 
 [Further Delegation and Baking Statistics](https://docs.google.com/spreadsheets/d/1Frn5NTHkHIXk0hWXDqqwPTJfxznR3PSQWdJUgA1aqO0/edit#gid=0)
 
 
-[View detailed baking rights] (https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7) (Change the cycle number!)
+[View detailed baking rights](https://rpc.tezrpc.me/chains/main/blocks/head/helpers/baking_rights?cycle=7) (Change the cycle number!)
 
-[View detailed baking rights] (https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7) (Change the cycle number!)
+[View detailed baking rights](https://rpc.tezrpc.me/chains/main/blocks/head/helpers/endorsing_rights?cycle=7) (Change the cycle number!)
 
 
 [List of further resources](https://www.tezos.help/)
