@@ -27,7 +27,7 @@
 
 
 
-[Guide to set up a Tezos Client and start baking] (https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9)
+[Guide to set up a Tezos Client and start baking] (https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9/)
 
 
 
