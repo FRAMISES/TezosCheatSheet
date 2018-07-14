@@ -42,7 +42,7 @@
 
 ### Information for Bakers
 
-[Guide to set up a Tezos Client and start baking](https://github.com/tezoscommunity/FAQ/wiki/Build-a-zeronet-node-on-Debian-9/)
+[Guide to set up a Tezos Client and start baking](https://github.com/tezoscommunity/FAQ/blob/master/Compile_Betanet.md)
 
 [Tezos Ledger Nano S applications](https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md) (Wallet and Baking application: Great guide how to start baking - by ObsidianSys.)
 
